@@ -35,3 +35,5 @@ elif choice == '4':
     print(f"The result is: {divide(num1, num2)}")
 else:
     print("Invalid input! Please enter 1, 2, 3, or 4.")
+
+print("Thank you")
